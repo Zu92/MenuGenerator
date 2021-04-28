@@ -1,0 +1,244 @@
+{"menus":
+    [
+        {"ids": 1,
+        "nombreSeccion": "Pizzas",
+         "productos":
+                    [
+                        {"idp": 1,
+                        "nombreProducto": "Pizza Napolitana",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":8,
+                        "opciones":[
+                            {"ido": 1,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 2,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },
+                    {"idp": 2,
+                        "nombreProducto": "Pizza Vegetariana",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 3,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 4,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },
+                    {"idp": 3,
+                        "nombreProducto": "Pizza Española",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 5,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 6,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },
+                    {   "idp": 4,
+                        "nombreProducto": "Pizza Hawaiana",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 7,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 8,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },{"idp": 5,
+                        "nombreProducto": "Pizza Pepperoni",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 9,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 10,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },
+                    {"idp": 6,
+                        "nombreProducto": "Pizza Margarita",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 11,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 12,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    },
+                    {"idp": 7,
+                        "nombreProducto": "Pizza Chilena",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 13,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido":14,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    }
+                    ,
+                    {"idp": 8,
+                        "nombreProducto": "Pizza Caprichosa",
+                        "descripcion": "Pizza de 8 porciones",
+                        "precio":"8",
+                        "opciones":[
+                            {"ido": 15,
+                                "nombreOpcion": "+ Salsa Picante",
+                            "precio":"8"},
+                            {"ido": 16,
+                                "nombreOpcion": "Extra Queso",
+                                "precioAdiconal":"6"}
+                        ]
+                    }
+                    ]},
+        {"ids": 2,
+            "nombreSeccion": "Acompañamientos",
+            "productos":
+                    [
+                        {"idp": 9,
+                            "nombreProducto": "Palitos de Ajo",
+                        "descripcion": "Empanada de JQ",
+                        "precio":"8",
+                        "opciones":[]}
+                    ]},
+        {"ids": 3,
+            "nombreSeccion": "Postres",
+            "productos":
+                    [
+                        {"idp": 10,
+                            "nombreProducto": "Suspiro Limeño",
+                        "descripcion": "Empanada de JQ",
+                        "precio":"8",
+                        "opciones":[]}
+                    ]},
+        {"ids": 4,
+            "nombreSeccion": "Postres",
+            "productos":
+                    [
+                        {"idp": 11,
+                            "nombreProducto": "Suspiro Limeño",
+                        "descripcion": "Empanada de JQ",
+                        "precio":"8",
+                        "opciones":[]}
+                    ]},
+                    
+        {"ids": 5,
+            "nombreSeccion": "Cerveza",
+            "productos":
+                    [
+                    {"idp": 7809634100048,
+                            "nombreProducto": "Cerveza Austral Calafate",
+                        "descripcion": "330 ml",
+                        "precio":"8",
+                        "opciones":[]},
+                    {"idp": 7809634100024,
+                        "nombreProducto": "Cerveza Austral Lager Botella 330 ml",
+                    "descripcion": "Cerveza Austral Lager Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+                ,
+                    {"idp":7809634100031,
+                        "nombreProducto": "Cerveza Austral Patagonia Pale Ale Botella 330 ml",
+                    "descripcion": "Cerveza Austral Patagonia Pale Ale Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+            
+                ,
+                    {"idp":7809634100413,
+                        "nombreProducto": "Cerveza Austral Torres Del Paine 330 ml",
+                    "descripcion": "Cerveza Austral Torres Del Paine 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+                
+                ,
+                    {"idp":5411663002716,
+                        "nombreProducto": "Cerveza Belga Gulden Draak 330 ml",
+                    "descripcion": "Cerveza Belga Gulden Draak 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+             
+                ,
+                    {"idp": 7804616480026,
+                        "nombreProducto": "Cerveza Dolbek Maqui Botella 330 ml",
+                    "descripcion": "Cerveza Dolbek Maqui Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+              
+                ,
+                    {"idp":4002103240709,
+                        "nombreProducto": "Cerveza Erdinger Urweisse 500 ml",
+                    "descripcion": "Cerveza Erdinger Urweisse 500 ml",
+                    "precio":"8",
+                    "opciones":[]}
+               
+                ,
+                    {"idp": 7804615340109,
+                        "nombreProducto": "Cerveza Kross Botella 330 ml",
+                    "descripcion": "Cerveza Kross Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+               
+                ,
+                    {"idp": 7804615340000,
+                        "nombreProducto": "Cerveza Kross Golden Ale 330 ml",
+                    "descripcion": "Cerveza Kross Golden Ale 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+               
+                ,
+                    {"idp":7804615340314,
+                        "nombreProducto": "Cerveza Kross Ipa Botella 330 ml",
+                    "descripcion": "Cerveza Kross Ipa Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+                
+                ,
+                    {"idp": 7804615340314,
+                        "nombreProducto": "Cerveza Kross Ipa Botella 330 ml",
+                    "descripcion": "Cerveza Kross Ipa Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+              
+                ,
+                    {"idp": 7804615340314,
+                        "nombreProducto": "Cerveza Kross Ipa Botella 330 ml",
+                    "descripcion": "Cerveza Kross Ipa Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+              
+                ,
+                    {"idp": 7804615340017,
+                        "nombreProducto": "Cerveza Kross Stout Botella 330 ml",
+                    "descripcion": "Cerveza Kross Stout Botella 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+             
+                ,
+                    {"idp":5410228142089,
+                        "nombreProducto": "Cerveza Leffe 330 ml",
+                    "descripcion": "Cerveza Leffe 330 ml",
+                    "precio":"8",
+                    "opciones":[]}
+                ]}                  
+               
+                ]
+
+}
